@@ -78,25 +78,17 @@ Front-end Web Developer passionate about building modern, responsive, and user-f
 
 </div>
 
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Rousha-Shikho-88" target="_blank">GitHub</a> |
-  <a href="https://www.linkedin.com/in/rousha-shikho-8528a6297?" target="_blank">LinkedIn</a> |
-  
+
+  <a href="https://github.com/Rousha-Shikho-88" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/rousha-shikho-8528a6297" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  </a>
+
 </p>
