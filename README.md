@@ -80,13 +80,6 @@ Front-end Web Developer passionate about building modern, responsive, and user-f
 
 ---
 
-## 📌 Featured Projects
-
-- 🔗 **Project Name 1** – Short description  
-- 🔗 **Project Name 2** – Short description  
-- 🔗 **Project Name 3** – Short description  
-
----
 
 ## 📊 GitHub Stats
 
@@ -103,7 +96,7 @@ Front-end Web Developer passionate about building modern, responsive, and user-f
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a> |
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> |
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://github.com/Rousha-Shikho-88" target="_blank">GitHub</a> |
+  <a href="https://www.linkedin.com/in/rousha-shikho-8528a6297?" target="_blank">LinkedIn</a> |
+  
 </p>
