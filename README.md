@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Rousha</h1>
 
 <p align="center">
-Web Developer passionate about building modern, responsive, and user-friendly web applications 👩‍💻
+Full-stack Web Developer crafting modern, scalable, and user-friendly web applications 👩‍💻
 </p>
 
 ---
