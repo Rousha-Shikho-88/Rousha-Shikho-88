@@ -1,24 +1,24 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 I'm Rousha</h1>
 
-###
+<p align="center">
+Front-end Web Developer passionate about building modern, responsive, and user-friendly web applications 👩‍💻
+</p>
 
-<p align="left">My name is Rousha, and I’m a web developer passionate about building modern and responsive websites 👩‍💻</p>
+---
 
-###
+## 🚀 About Me
 
-<h2 align="left">About me</h2>
+- ✨ Building real-world projects using modern technologies  
+- ⚛️ Working with React & Inertia.js  
+- 🎨 Focused on clean UI & great user experience  
+- 📚 Always learning and improving  
+- 🎯 Goal: Become a strong front-end developer and build impactful products  
 
-###
+---
 
-<p align="left">✨ Building real-world projects using modern technologies  <br>⚛️ Experienced with React and Inertia.js  <br>🎨 I enjoy creating clean and user-friendly UI  <br>📚 Continuously learning and improving my skills  <br>🎯 Goal: Grow as a front-end developer and build impactful projects</p>
+## 🛠️ Tech Stack
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
+<div align="center">
 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
@@ -78,4 +78,32 @@
 
 </div>
 
-###
+---
+
+## 📌 Featured Projects
+
+- 🔗 **Project Name 1** – Short description  
+- 🔗 **Project Name 2** – Short description  
+- 🔗 **Project Name 3** – Short description  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a> |
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> |
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
